@@ -1,10 +1,14 @@
-### Hi there 👋
+<img src="https://github.com/mottamx/mottamx/blob/main/banner.png" alt="banner Carlos Motta - software developer, automation engineer">
+
+🔭 I’m currently working on a backend application, Django+Python+PostgreSQL.
+
+⚡ Will create a list of my repositories and their purpose.
 
 <!--
 **mottamx/mottamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
