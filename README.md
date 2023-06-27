@@ -1,5 +1,3 @@
-<img src="https://github.com/mottamx/mottamx/blob/main/banner.png" alt="banner Carlos Motta - software developer, automation engineer">
-
 🔭 I’m currently working on a backend application, Django+Python+PostgreSQL.
 
 ⚡ Will create a list of my repositories and their purpose.
