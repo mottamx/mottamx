@@ -1,6 +1,5 @@
 🔭 I’m currently working on a backend application, Django+Python+PostgreSQL.
 
-⚡ Will create a list of my repositories and their purpose.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
