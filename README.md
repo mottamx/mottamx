@@ -1,8 +1,8 @@
-🔭 I’m currently working on a backend application, Django+Python+PostgreSQL.
+🔭 I’m currently focusing on web app development and DevOps, specializing in the MERN stack. I aim to achieve the whole process, from frontend (React, Redux) to backend, RESTful APIs, and CDNs. My other Python-based projects include robotics, data analysis, and other fields.
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
